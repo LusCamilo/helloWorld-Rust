@@ -6,6 +6,12 @@
 
 ## **cargo** é semelhante a um gerenciador de pacotes que é capaz de gerar o Cargo.toml (package.json), responsavel pelo gerenciamento de dependencias e criação de um WorkSpace
 
+
+## init
+```
+    cargo new Nome-do-seu-projeto
+```
+
 ## build
 ```rs
     cargo build
