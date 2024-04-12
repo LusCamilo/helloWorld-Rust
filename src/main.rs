@@ -6,7 +6,7 @@ fn main() {
 
     println!("Hello, World!");
 
-    let total = 30; //tipo
+    let total = 30; //tipo u32
     println!("o cara trabalhou {} horas", total);
     {
         let total = total * MINUTES_IN_HOURS ; 
